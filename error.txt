@@ -1,0 +1,20 @@
+[Solarus] [287340] Error: In on_obtaining: [string "items/big_key.lua"]:9: This map is not in a dungeon
+[Solarus] [376730] Error: In on_obtaining: [string "items/big_key.lua"]:9: This map is not in a dungeon
+[Solarus] [466850] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [466900] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [611390] Error: In on_obtaining: [string "items/big_key.lua"]:9: This map is not in a dungeon
+[Solarus] [699340] Error: In on_obtaining: [string "items/big_key.lua"]:9: This map is not in a dungeon
+[Solarus] [782100] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793200] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793200] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793250] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793300] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793350] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793400] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793450] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793500] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793500] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793550] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793600] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793650] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
+[Solarus] [793700] Error: In on_collision_enemy: [string "enemies/agfakes.lua"]:174: attempt to index a nil value
